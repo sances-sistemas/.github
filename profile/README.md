@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sances-sistemas/.github/main/profile/assets/banner.png" alt="Sances Sistemas" width="100%" />
+<img src="https://raw.githubusercontent.com/sances-sistemas/.github/main/profile/assets/banner.svg" alt="Sances Sistemas" width="100%" />
 
 # ⚡ Sances Sistemas
 
