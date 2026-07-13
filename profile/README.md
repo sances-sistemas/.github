@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/sances-sistemas/.github/main/profile/assets/banner.svg" alt="Sances Sistemas" width="100%" /></p>
 
-# ⚡ Sances Sistemas
+# Sances Sistemas
 
 ### Tecnologia que move o mercado automotivo brasileiro
 
